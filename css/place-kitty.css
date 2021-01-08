@@ -20,7 +20,7 @@
 
 /*__write_selector_here__*/ {
   position: absolute;
-  z-index: 5;
+  z-index: 0;
   top: 0px;
   left: 200px;
 }
