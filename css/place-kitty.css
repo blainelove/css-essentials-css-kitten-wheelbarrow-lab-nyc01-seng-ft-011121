@@ -1,7 +1,7 @@
 /* Select the image with a class of  */
 
 /*__write_selector_here__*/
-kitty-1 {
+#kitty-1 {
   position: absolute;
   z-index: 1;
   top: 230px;
@@ -11,7 +11,7 @@ kitty-1 {
 /* Select the image with id of kitty-2 */
 
 /*__write_selector_here__*/
-kitty-2 {
+#kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -20,11 +20,13 @@ kitty-2 {
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-/*__write_selector_here__*/ {
+/*__write_selector_here__*/
+basket {
   position: absolute;
   z-index: 0;
   top: 0px;
   left: 200px;
+}kitty-3
 }
 
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
