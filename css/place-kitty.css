@@ -38,7 +38,7 @@
 
 /*__write_selector_here__*/ {
   position: absolute;
-  z-index: 3;
+  z-index: 2;
   top: 217px;
   left: 223px;
 }
