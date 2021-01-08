@@ -29,7 +29,7 @@
 
 /*__write_selector_here__*/ {
   position: absolute;
-  z-index: 4;
+  z-index: 0;
   top: 260px;
   left: 455px;
 }
